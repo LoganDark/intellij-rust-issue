@@ -1,0 +1,2 @@
+[workspace]
+members = ['intellij_rust_issue']
